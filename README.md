@@ -14,8 +14,8 @@ There are still some features that need to be implemented, but is considered fut
 To run this project, simply clone the repository to your local workspace. MovieLens100k dataset is included in this repository.
 
 Install the required packages:
-'''
+```
 pip install pandas numpy matplotlib seaborn scikit-learn scipy implicit
-'''
+```
 
 Then run the notebook. Expected runtime, depending on the system, is 1-3 minutes.
