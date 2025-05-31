@@ -11,7 +11,7 @@ There are still some features that need to be implemented, but is considered fut
 
 
 ## How to run
-To run this project, simply clone the repository to your local workspace. MovieLens100k dataset is included in this repository.
+To run this project, simply clone the repository to your local workspace. MovieLens100k dataset is included in this repository. This notebook was run in an Anaconda3 environment python 3.12.3.
 
 Install the required packages:
 ```
